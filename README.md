@@ -1,52 +1,64 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedzisai Poseni
-=======================================================================================================================================
+# Hi there! 👋 I'm Pedzisai Poseni
 
-Data Analyst and M&E Specialist and Software Engineer
--------------------------------
+![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I have solid background in Monitoring and Evaluation and research. Since i been assisting in collecting and using data to solve problems i then fell in love with data and data analytics i love and enjoy discovery new insights from data and solve business challenges using different available programming languages and database languages (R, SQL,MySQL)
+🎯 **Data Analyst | Monitoring & Evaluation Specialist | Software Engineer (AI Focus)**  
+💡 Passionate about solving real-world problems through data and tech innovation.
 
-*   🌍  I'm based in South Africa
-*   ✉️  You can contact me at [pedzisaiposeni@gmail.com](mailto:pedzisaiposeni@gmail.com)
-*   🧠  I'm learning Software Engineering
-*   🤝  I'm open to collaborating on Data Analytics, Program Conceptualization, Evaluation,Product development, 3d animations, Story telling
-*   ⚡  I did not do IT but its my passion and i taught myselft lots of skills.Curiosity is my motivation
-*    🌍 Link to Crypto Tom Assistant i created in Python and used Replit to design an app [https://81de24fa-60d0-4e49-8c9e-79d1f4cc1806-00-3445bvlqjx1z8.spock.replit.dev/)
-*   ### Skills
+---
+
+### 🚀 About Me
+
+I bring together Monitoring & Evaluation expertise and self-taught software engineering skills to transform data into insight and insight into action. My journey started with research and analytics — and has evolved into building digital tools that tell stories and spark innovation.
+
+---
+
+### 🧠 Currently Studying
+
+📚 Software Engineering with a specialization in **Artificial Intelligence**  
+💻 Technologies mastered so far:
+- HTML & CSS
+- SQL (Database design and management)
+- Business Startup for Developers  
+- Building intelligent applications like [Crypto Tom Assistant](#💬-featured-project)
+
+---
+
+### 🌍 Based in: South Africa  
+📫 Reach me: [pedzisaiposeni@gmail.com](mailto:pedzisaiposeni@gmail.com)
+
+---
+
+### 💬 Featured Project
+
+#### 🤖 [Crypto Tom Assistant](https://81de24fa-60d0-4e49-8c9e-79d1f4cc1806-00-3445bvlqjx1z8.spock.replit.dev/)
+
+A beginner-friendly **AI-powered chatbot** built with **Python** on **Replit**. It interacts with users to give insights on different cryptocurrencies — powered by simple rules and clean logic.
+
+🧠 Features:
+- Personality-driven greetings  
+- User input validation  
+- Data-driven crypto insights  
+- Smart recommendations based on trends, energy use & viability
+
+> **Disclaimer:** *This tool is for educational and informational purposes only. It does not constitute financial advice or a recommendation to trade or invest in cryptocurrencies. Always do your own research before making any financial decisions.*
+
+---
+
+### 🛠️ Skills
+
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-  </p>
-  
- ### Socials
-                     
- <p align="left">
-  <a href="https://www.github.com/poscom2010" target="_blank" rel="noreferrer">
-<picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/pedzisaiposeniportfolio" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.stackoverflow.com/users/TheAnalyst01" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.x.com/noname" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
-    ### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/poscom2010"><img src="https://github-readme-stats.vercel.app/api?username=poscom2010&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=84cc16&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="poscom2010's GitHub stats" /></a>           
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" /></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" /></a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
