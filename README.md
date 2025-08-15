@@ -1,8 +1,8 @@
-# Hi there! �� I'm Pedzisai Poseni
+# Hi there!  I'm Pedzisai Poseni
 
 ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-�� **AI/ML Engineer | Full-Stack Developer | Data Scientist**  
+ **AI/ML Engineer | Full-Stack Developer | Data Scientist**  
 💡 Building intelligent applications that transform data into actionable insights and create meaningful user experiences.
 
 ---
@@ -15,7 +15,7 @@ My journey from data analysis to building sophisticated AI applications has equi
 
 ---
 
-### �� Currently Studying
+###  Software Engineering Courses
 
 📚 **Software Engineering with AI Specialization**  
 💻 **Technologies & Skills Mastered:**
