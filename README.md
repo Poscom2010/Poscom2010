@@ -29,7 +29,7 @@ My journey from data analysis to building sophisticated AI applications has equi
 
 ### 🚀 Featured Projects
 
-#### 🤖 Icon()SmartStart RAG Chatbot
+#### 🤖 IconSmartStart RAG Chatbot
 
 **Advanced AI-Powered Knowledge Assistant** - A sophisticated RAG (Retrieval-Augmented Generation) system built with modern AI technologies.
 
