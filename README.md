@@ -29,7 +29,7 @@ My journey from data analysis to building sophisticated AI applications has equi
 
 ### 🚀 Featured Projects
 
-#### 🤖 Icon(https://github.com/Poscom2010/SmartStartChatBot/blob/main/smartstart_streamlit/images/icon.png)SmartStart RAG Chatbot
+#### 🤖 Icon()SmartStart RAG Chatbot
 
 **Advanced AI-Powered Knowledge Assistant** - A sophisticated RAG (Retrieval-Augmented Generation) system built with modern AI technologies.
 
