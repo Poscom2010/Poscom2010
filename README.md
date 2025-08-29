@@ -2,7 +2,7 @@
 
 ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
- **AI/ML Engineer | Full-Stack Developer | Data Scientist**  
+ **Monitoring and Evaluation Professional| Data Analyst. Upcoming Software Engineer| AI Specialization| Data Scientist**  
 💡 Building intelligent applications that transform data into actionable insights and create meaningful user experiences.
 
 ---
